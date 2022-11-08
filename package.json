@@ -13,6 +13,8 @@
   "author": "Lucas C. Silveira",
   "license": "ISC",
   "dependencies": {
+    "clipboard": "^2.0.11",
+    "clipboard-copy": "^4.0.1",
     "nanoid": "^4.0.0",
     "vite": "^3.2.3"
   },
